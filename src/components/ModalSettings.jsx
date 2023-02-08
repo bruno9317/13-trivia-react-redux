@@ -3,6 +3,7 @@
 /* eslint-disable react/jsx-max-depth */
 import React from 'react';
 import PropTypes from 'prop-types';
+// import { AiOutlineClose } from 'react-icons/ai';
 import { AiOutlineClose } from 'react-icons/ai';
 
 function ModalSettings({ settingsOpen, setSettingsOpen }) {
